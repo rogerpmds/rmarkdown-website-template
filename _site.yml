@@ -22,5 +22,8 @@ navbar:
       href: https://github.com/rogerprochnow       # CHANGE HERE 
 output:
   html_document:
-    theme: flatly           # Tema a ser usado no site 
-    highlight: default      
+#    theme: flatly           # Tema a ser usado no site 
+#    highlight: default  
+    theme: null
+    highlight: null
+    css: styles.css    
